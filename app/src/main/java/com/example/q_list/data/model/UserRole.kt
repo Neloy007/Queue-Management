@@ -1,3 +1,6 @@
 package com.example.q_list.data.model
 
-data class UserRole()
+enum class UserRole {
+    CUSTOMER,
+    OPERATOR
+}

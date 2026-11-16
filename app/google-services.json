@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141938415640",
+    "project_id": "q-list-83f2d",
+    "storage_bucket": "q-list-83f2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141938415640:android:b22338cd69ead9bed44b6d",
+        "android_client_info": {
+          "package_name": "com.example.q_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqe2LOZorjFpaEfeEGvKi5tkgkOf3dhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
